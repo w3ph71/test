@@ -15,4 +15,5 @@ $COL_FORCLOSURE_TYPE='is_for_closure';
 $COL_RCTS_SOLD='rcts_sold';
 /***************************************************/
 
+
 ?>
